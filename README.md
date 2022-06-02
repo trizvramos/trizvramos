@@ -4,6 +4,10 @@
 - 🌱 Estou aprendendo a programar
 - Meu email de contanto é beatriz.vieira.ramos@escola.pr.gov.br
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 trizvramos/trizvramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
